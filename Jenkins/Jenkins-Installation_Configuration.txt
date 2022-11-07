@@ -99,7 +99,8 @@ Add User : useradd -m -d /home/jenkinsadmin jenkinsadmin
 
 su - jenkinsadmin
 
-ssh-keygen
+ssh-keygen #for all the options after this, jus enter without giving any value
+
 
 ls ~/.ssh 
 
